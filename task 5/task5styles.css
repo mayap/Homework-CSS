@@ -1,0 +1,48 @@
+body {
+	font-family: Verdana;
+}
+
+#header p {
+	border-bottom: 1px solid black;
+	padding: 5px;
+	padding-left: 10px;
+	margin-bottom: -3px;
+	color: white;
+	font-size: 17px;
+	font-weight: bold;
+	background-color: rgb(68, 131, 199);
+}
+
+#header {
+	margin-bottom: 15px;
+	width: 560px;
+}
+
+#subheading {
+	margin: 0 0 1em 1em;
+}
+
+.main h5 {
+	margin: 0;
+	padding: 3px;
+	color: white;
+	background-color: rgb(83,134,33);
+}
+
+.wrap {
+	width: 530px; 
+	border: 1px solid green;
+	margin-bottom: 8px;
+	margin-left: 11px;
+	background-color: rgb(254, 255, 239);
+}
+
+.wrap p {
+	margin: 0;
+	padding: 5px;
+	font-size: 11px;
+}
+
+.divs-footer {
+	color: grey;
+}
